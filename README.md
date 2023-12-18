@@ -8,8 +8,8 @@ The source code are available at: https://pan.baidu.com/s/16Kyik8IhbU6Y2tYkvRR1U
 
 # Paper
 
-# Citation
-Kechen Song, Han Wang, Ying Zhao, Liming Huang, Hongwen Dong, Yunhui Yan. Lightweight Multi-level Feature Difference Fusion Network for RGB-D-T Salient Object Detection [J]. Journal of King Saud University - Computer and Information Sciences, 2023.
+[2023-Lightweight multi-level feature difference fusion network for RGB-D-T salient object detection.pdf](https://github.com/VDT-2048/MFDF/files/13700294/2023-Lightweight.multi-level.feature.difference.fusion.network.for.RGB-D-T.salient.object.detection.pdf)
+
 
 #  Related Work of Visible-Depth-Thermal Salient Object Detection
 [1]  A Novel Visible-Depth-Thermal Image Dataset of Salient Object Detection for Robotic Visual Perception [J]. IEEE/ASME Transactions on Mechatronics, 2023, 28(3), 1558-1569.
